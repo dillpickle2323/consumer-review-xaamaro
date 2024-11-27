@@ -15,6 +15,6 @@ public class TestReview {
     
      System.out.println(Review.starRating("26WestReview.txt")); 
     //The above line prints 4
-     
+     System.out.println(Review.starRating("My 13 year old daughter absolutely loves this shirt and it makes me laugh every time she wears it. Win win.");
   }
 }
